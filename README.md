@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [Rushan Tamrakar](http://www.rushantamrakar.com.np/)
 * ✉️  You can contact me at [rushan2072@gmail.com](mailto:rushan2072@gmail.com)
-* 🧠  I'm learning Python <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18" height="18" alt="Python" />
+* 🧠  I'm learning Python <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18" height="18" alt="Python" /> and <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 
 ### Skills
 
